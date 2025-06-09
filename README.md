@@ -1,6 +1,7 @@
 # KUlucoseTrack
 
 A wearable, non-invasive blood glucose monitoring system using Galvanic Skin Response (GSR) and a Flutter mobile app for real-time tracking and notifications.
+**This project was completed as the senior design project for the ELEC 491 course at Koç University.**
 
 ---
 
